@@ -1,0 +1,207 @@
+[22-Jul-2016 20:44:26 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php on line 3
+[22-Jul-2016 20:44:26 UTC] PHP Stack trace:
+[22-Jul-2016 20:44:26 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[22-Jul-2016 20:44:26 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php on line 9
+[22-Jul-2016 20:44:26 UTC] PHP Stack trace:
+[22-Jul-2016 20:44:26 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[22-Jul-2016 21:02:57 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php on line 3
+[22-Jul-2016 21:02:57 UTC] PHP Stack trace:
+[22-Jul-2016 21:02:57 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[22-Jul-2016 21:02:57 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php on line 9
+[22-Jul-2016 21:02:57 UTC] PHP Stack trace:
+[22-Jul-2016 21:02:57 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[22-Jul-2016 21:03:07 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php on line 3
+[22-Jul-2016 21:03:07 UTC] PHP Stack trace:
+[22-Jul-2016 21:03:07 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[22-Jul-2016 21:03:07 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php on line 9
+[22-Jul-2016 21:03:07 UTC] PHP Stack trace:
+[22-Jul-2016 21:03:07 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[22-Jul-2016 21:04:02 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php on line 3
+[22-Jul-2016 21:04:02 UTC] PHP Stack trace:
+[22-Jul-2016 21:04:02 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[22-Jul-2016 21:04:02 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php on line 9
+[22-Jul-2016 21:04:02 UTC] PHP Stack trace:
+[22-Jul-2016 21:04:02 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[22-Jul-2016 21:04:06 UTC] PHP Notice:  Undefined index: PATH_INFO in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php on line 3
+[22-Jul-2016 21:04:06 UTC] PHP Stack trace:
+[22-Jul-2016 21:04:06 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php:0
+[30-Jul-2016 09:51:54 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php on line 3
+[30-Jul-2016 09:51:54 UTC] PHP Stack trace:
+[30-Jul-2016 09:51:54 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[30-Jul-2016 09:51:54 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php on line 9
+[30-Jul-2016 09:51:54 UTC] PHP Stack trace:
+[30-Jul-2016 09:51:54 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[30-Jul-2016 09:51:55 UTC] PHP Notice:  Undefined index: PATH_INFO in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php on line 3
+[30-Jul-2016 09:51:55 UTC] PHP Stack trace:
+[30-Jul-2016 09:51:55 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php:0
+[30-Jul-2016 09:53:37 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php on line 3
+[30-Jul-2016 09:53:37 UTC] PHP Stack trace:
+[30-Jul-2016 09:53:37 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[30-Jul-2016 09:53:37 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php on line 9
+[30-Jul-2016 09:53:37 UTC] PHP Stack trace:
+[30-Jul-2016 09:53:37 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[30-Jul-2016 09:53:40 UTC] PHP Notice:  Undefined index: PATH_INFO in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php on line 3
+[30-Jul-2016 09:53:40 UTC] PHP Stack trace:
+[30-Jul-2016 09:53:40 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php:0
+[30-Jul-2016 10:01:06 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php on line 3
+[30-Jul-2016 10:01:06 UTC] PHP Stack trace:
+[30-Jul-2016 10:01:06 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[30-Jul-2016 10:01:06 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php on line 9
+[30-Jul-2016 10:01:06 UTC] PHP Stack trace:
+[30-Jul-2016 10:01:06 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[30-Jul-2016 10:01:07 UTC] PHP Notice:  Undefined index: PATH_INFO in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php on line 3
+[30-Jul-2016 10:01:07 UTC] PHP Stack trace:
+[30-Jul-2016 10:01:07 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php:0
+[30-Jul-2016 10:06:29 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php on line 3
+[30-Jul-2016 10:06:29 UTC] PHP Stack trace:
+[30-Jul-2016 10:06:29 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[30-Jul-2016 10:06:29 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php on line 9
+[30-Jul-2016 10:06:29 UTC] PHP Stack trace:
+[30-Jul-2016 10:06:29 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[30-Jul-2016 10:06:32 UTC] PHP Notice:  Undefined index: PATH_INFO in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php on line 3
+[30-Jul-2016 10:06:32 UTC] PHP Stack trace:
+[30-Jul-2016 10:06:32 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php:0
+[30-Jul-2016 10:07:30 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php on line 3
+[30-Jul-2016 10:07:30 UTC] PHP Stack trace:
+[30-Jul-2016 10:07:30 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[30-Jul-2016 10:07:30 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php on line 9
+[30-Jul-2016 10:07:30 UTC] PHP Stack trace:
+[30-Jul-2016 10:07:30 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[30-Jul-2016 10:07:30 UTC] PHP Notice:  Undefined index: PATH_INFO in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php on line 3
+[30-Jul-2016 10:07:30 UTC] PHP Stack trace:
+[30-Jul-2016 10:07:30 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php:0
+[30-Jul-2016 10:23:08 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php on line 3
+[30-Jul-2016 10:23:08 UTC] PHP Stack trace:
+[30-Jul-2016 10:23:08 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[30-Jul-2016 10:23:08 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php on line 9
+[30-Jul-2016 10:23:08 UTC] PHP Stack trace:
+[30-Jul-2016 10:23:08 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[30-Jul-2016 10:23:08 UTC] PHP Notice:  Undefined index: PATH_INFO in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php on line 3
+[30-Jul-2016 10:23:08 UTC] PHP Stack trace:
+[30-Jul-2016 10:23:08 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php:0
+[31-Jul-2016 17:49:59 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php on line 3
+[31-Jul-2016 17:49:59 UTC] PHP Stack trace:
+[31-Jul-2016 17:49:59 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[31-Jul-2016 17:49:59 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php on line 9
+[31-Jul-2016 17:49:59 UTC] PHP Stack trace:
+[31-Jul-2016 17:49:59 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[31-Jul-2016 17:50:01 UTC] PHP Notice:  Undefined index: PATH_INFO in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php on line 3
+[31-Jul-2016 17:50:01 UTC] PHP Stack trace:
+[31-Jul-2016 17:50:01 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php:0
+[04-Aug-2016 09:12:41 UTC] PHP Notice:  Undefined index: PATH_INFO in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php on line 3
+[04-Aug-2016 09:12:41 UTC] PHP Stack trace:
+[04-Aug-2016 09:12:41 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php:0
+[04-Aug-2016 09:31:43 UTC] PHP Notice:  Undefined index: PATH_INFO in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php on line 3
+[04-Aug-2016 09:31:43 UTC] PHP Stack trace:
+[04-Aug-2016 09:31:43 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php:0
+[05-Aug-2016 04:05:48 UTC] PHP Notice:  Undefined index: PATH_INFO in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php on line 3
+[05-Aug-2016 04:05:48 UTC] PHP Stack trace:
+[05-Aug-2016 04:05:48 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php:0
+[05-Aug-2016 05:43:50 UTC] PHP Notice:  Undefined index: PATH_INFO in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php on line 3
+[05-Aug-2016 05:43:50 UTC] PHP Stack trace:
+[05-Aug-2016 05:43:50 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php:0
+[05-Aug-2016 06:53:06 UTC] PHP Notice:  Undefined index: PATH_INFO in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php on line 3
+[05-Aug-2016 06:53:06 UTC] PHP Stack trace:
+[05-Aug-2016 06:53:06 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php:0
+[05-Aug-2016 06:55:51 UTC] PHP Notice:  Undefined index: PATH_INFO in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php on line 3
+[05-Aug-2016 06:55:51 UTC] PHP Stack trace:
+[05-Aug-2016 06:55:51 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php:0
+[05-Aug-2016 06:56:38 UTC] PHP Notice:  Undefined index: PATH_INFO in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php on line 3
+[05-Aug-2016 06:56:38 UTC] PHP Stack trace:
+[05-Aug-2016 06:56:38 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php:0
+[05-Aug-2016 06:56:47 UTC] PHP Notice:  Undefined index: PATH_INFO in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php on line 3
+[05-Aug-2016 06:56:47 UTC] PHP Stack trace:
+[05-Aug-2016 06:56:47 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php:0
+[05-Aug-2016 06:57:01 UTC] PHP Notice:  Undefined index: PATH_INFO in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php on line 3
+[05-Aug-2016 06:57:01 UTC] PHP Stack trace:
+[05-Aug-2016 06:57:01 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php:0
+[05-Aug-2016 07:04:11 UTC] PHP Notice:  Undefined index: PATH_INFO in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php on line 3
+[05-Aug-2016 07:04:11 UTC] PHP Stack trace:
+[05-Aug-2016 07:04:11 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php:0
+[05-Aug-2016 10:24:25 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php on line 3
+[05-Aug-2016 10:24:25 UTC] PHP Stack trace:
+[05-Aug-2016 10:24:25 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[05-Aug-2016 10:24:25 UTC] PHP Warning:  require_once(includes/constants.php): failed to open stream: No such file or directory in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Mysql.php on line 3
+[05-Aug-2016 10:24:25 UTC] PHP Stack trace:
+[05-Aug-2016 10:24:25 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[05-Aug-2016 10:24:25 UTC] PHP   2. include() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:5
+[05-Aug-2016 10:24:25 UTC] PHP   3. require_once() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/header.php:2
+[05-Aug-2016 10:24:25 UTC] PHP   4. require() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Membership.php:3
+[05-Aug-2016 10:24:25 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/constants.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Mysql.php on line 3
+[05-Aug-2016 10:24:25 UTC] PHP Stack trace:
+[05-Aug-2016 10:24:25 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[05-Aug-2016 10:24:25 UTC] PHP   2. include() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:5
+[05-Aug-2016 10:24:25 UTC] PHP   3. require_once() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/header.php:2
+[05-Aug-2016 10:24:25 UTC] PHP   4. require() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Membership.php:3
+[08-Aug-2016 08:06:19 UTC] PHP Notice:  Undefined index: PATH_INFO in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php on line 3
+[08-Aug-2016 08:06:19 UTC] PHP Stack trace:
+[08-Aug-2016 08:06:19 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php:0
+[09-Aug-2016 18:28:42 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php on line 3
+[09-Aug-2016 18:28:42 UTC] PHP Stack trace:
+[09-Aug-2016 18:28:42 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[09-Aug-2016 18:28:42 UTC] PHP Warning:  require_once(includes/constants.php): failed to open stream: No such file or directory in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Mysql.php on line 3
+[09-Aug-2016 18:28:42 UTC] PHP Stack trace:
+[09-Aug-2016 18:28:42 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[09-Aug-2016 18:28:42 UTC] PHP   2. include() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:5
+[09-Aug-2016 18:28:42 UTC] PHP   3. require_once() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/header.php:2
+[09-Aug-2016 18:28:42 UTC] PHP   4. require() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Membership.php:3
+[09-Aug-2016 18:28:42 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/constants.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Mysql.php on line 3
+[09-Aug-2016 18:28:42 UTC] PHP Stack trace:
+[09-Aug-2016 18:28:42 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[09-Aug-2016 18:28:42 UTC] PHP   2. include() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:5
+[09-Aug-2016 18:28:42 UTC] PHP   3. require_once() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/header.php:2
+[09-Aug-2016 18:28:42 UTC] PHP   4. require() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Membership.php:3
+[10-Aug-2016 04:33:28 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php on line 3
+[10-Aug-2016 04:33:28 UTC] PHP Stack trace:
+[10-Aug-2016 04:33:28 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[10-Aug-2016 04:33:28 UTC] PHP Warning:  require_once(includes/constants.php): failed to open stream: No such file or directory in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Mysql.php on line 3
+[10-Aug-2016 04:33:28 UTC] PHP Stack trace:
+[10-Aug-2016 04:33:28 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[10-Aug-2016 04:33:28 UTC] PHP   2. include() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:5
+[10-Aug-2016 04:33:28 UTC] PHP   3. require_once() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/header.php:2
+[10-Aug-2016 04:33:28 UTC] PHP   4. require() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Membership.php:3
+[10-Aug-2016 04:33:28 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/constants.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Mysql.php on line 3
+[10-Aug-2016 04:33:28 UTC] PHP Stack trace:
+[10-Aug-2016 04:33:28 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[10-Aug-2016 04:33:28 UTC] PHP   2. include() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:5
+[10-Aug-2016 04:33:28 UTC] PHP   3. require_once() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/header.php:2
+[10-Aug-2016 04:33:28 UTC] PHP   4. require() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Membership.php:3
+[12-Aug-2016 17:04:31 UTC] PHP Notice:  Undefined index: PATH_INFO in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php on line 3
+[12-Aug-2016 17:04:31 UTC] PHP Stack trace:
+[12-Aug-2016 17:04:31 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php:0
+[15-Aug-2016 12:26:34 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php on line 3
+[15-Aug-2016 12:26:34 UTC] PHP Stack trace:
+[15-Aug-2016 12:26:34 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[15-Aug-2016 12:26:34 UTC] PHP Warning:  require_once(includes/constants.php): failed to open stream: No such file or directory in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Mysql.php on line 3
+[15-Aug-2016 12:26:34 UTC] PHP Stack trace:
+[15-Aug-2016 12:26:34 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[15-Aug-2016 12:26:34 UTC] PHP   2. include() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:5
+[15-Aug-2016 12:26:34 UTC] PHP   3. require_once() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/header.php:2
+[15-Aug-2016 12:26:34 UTC] PHP   4. require() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Membership.php:3
+[15-Aug-2016 12:26:34 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/constants.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Mysql.php on line 3
+[15-Aug-2016 12:26:34 UTC] PHP Stack trace:
+[15-Aug-2016 12:26:34 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[15-Aug-2016 12:26:34 UTC] PHP   2. include() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:5
+[15-Aug-2016 12:26:34 UTC] PHP   3. require_once() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/header.php:2
+[15-Aug-2016 12:26:34 UTC] PHP   4. require() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Membership.php:3
+[22-Aug-2016 02:45:06 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php on line 3
+[22-Aug-2016 02:45:06 UTC] PHP Stack trace:
+[22-Aug-2016 02:45:06 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[22-Aug-2016 02:45:06 UTC] PHP Warning:  require_once(includes/constants.php): failed to open stream: No such file or directory in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Mysql.php on line 3
+[22-Aug-2016 02:45:06 UTC] PHP Stack trace:
+[22-Aug-2016 02:45:06 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[22-Aug-2016 02:45:06 UTC] PHP   2. include() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:5
+[22-Aug-2016 02:45:06 UTC] PHP   3. require_once() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/header.php:2
+[22-Aug-2016 02:45:06 UTC] PHP   4. require() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Membership.php:3
+[22-Aug-2016 02:45:06 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/constants.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Mysql.php on line 3
+[22-Aug-2016 02:45:06 UTC] PHP Stack trace:
+[22-Aug-2016 02:45:06 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:0
+[22-Aug-2016 02:45:06 UTC] PHP   2. include() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/displaypromotions.php:5
+[22-Aug-2016 02:45:06 UTC] PHP   3. require_once() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/header.php:2
+[22-Aug-2016 02:45:06 UTC] PHP   4. require() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Membership.php:3
+[22-Aug-2016 06:47:25 UTC] PHP Notice:  Undefined index: PATH_INFO in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php on line 3
+[22-Aug-2016 06:47:25 UTC] PHP Stack trace:
+[22-Aug-2016 06:47:25 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php:0
+[22-Aug-2016 07:00:52 UTC] PHP Notice:  Undefined index: PATH_INFO in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php on line 3
+[22-Aug-2016 07:00:52 UTC] PHP Stack trace:
+[22-Aug-2016 07:00:52 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/promotions/getallpromotionsinfo.php:0

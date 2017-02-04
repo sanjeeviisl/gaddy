@@ -1,0 +1,165 @@
+[22-Jul-2016 21:18:02 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php on line 3
+[22-Jul-2016 21:18:02 UTC] PHP Stack trace:
+[22-Jul-2016 21:18:02 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[22-Jul-2016 21:18:02 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php on line 9
+[22-Jul-2016 21:18:02 UTC] PHP Stack trace:
+[22-Jul-2016 21:18:02 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[22-Jul-2016 21:45:11 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php on line 3
+[22-Jul-2016 21:45:11 UTC] PHP Stack trace:
+[22-Jul-2016 21:45:11 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[22-Jul-2016 21:45:11 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php on line 9
+[22-Jul-2016 21:45:11 UTC] PHP Stack trace:
+[22-Jul-2016 21:45:11 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[30-Jul-2016 09:53:43 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php on line 3
+[30-Jul-2016 09:53:43 UTC] PHP Stack trace:
+[30-Jul-2016 09:53:43 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[30-Jul-2016 09:53:43 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php on line 9
+[30-Jul-2016 09:53:43 UTC] PHP Stack trace:
+[30-Jul-2016 09:53:43 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[30-Jul-2016 09:55:36 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php on line 3
+[30-Jul-2016 09:55:36 UTC] PHP Stack trace:
+[30-Jul-2016 09:55:36 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[30-Jul-2016 09:55:36 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php on line 9
+[30-Jul-2016 09:55:36 UTC] PHP Stack trace:
+[30-Jul-2016 09:55:36 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[30-Jul-2016 09:55:38 UTC] PHP Notice:  Undefined index: PATH_Documents in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/getallpaymentdetailsinfo.php on line 3
+[30-Jul-2016 09:55:38 UTC] PHP Stack trace:
+[30-Jul-2016 09:55:38 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/getallpaymentdetailsinfo.php:0
+[30-Jul-2016 09:56:30 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php on line 3
+[30-Jul-2016 09:56:30 UTC] PHP Stack trace:
+[30-Jul-2016 09:56:30 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[30-Jul-2016 09:56:30 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php on line 9
+[30-Jul-2016 09:56:30 UTC] PHP Stack trace:
+[30-Jul-2016 09:56:30 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[30-Jul-2016 09:56:33 UTC] PHP Notice:  Undefined index: PATH_Documents in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/getallpaymentdetailsinfo.php on line 3
+[30-Jul-2016 09:56:33 UTC] PHP Stack trace:
+[30-Jul-2016 09:56:33 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/getallpaymentdetailsinfo.php:0
+[30-Jul-2016 09:57:22 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php on line 3
+[30-Jul-2016 09:57:22 UTC] PHP Stack trace:
+[30-Jul-2016 09:57:22 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[30-Jul-2016 09:57:22 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php on line 9
+[30-Jul-2016 09:57:22 UTC] PHP Stack trace:
+[30-Jul-2016 09:57:22 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[30-Jul-2016 09:57:24 UTC] PHP Notice:  Undefined index: PATH_Documents in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/getallpaymentdetailsinfo.php on line 3
+[30-Jul-2016 09:57:24 UTC] PHP Stack trace:
+[30-Jul-2016 09:57:24 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/getallpaymentdetailsinfo.php:0
+[30-Jul-2016 10:07:38 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php on line 3
+[30-Jul-2016 10:07:38 UTC] PHP Stack trace:
+[30-Jul-2016 10:07:38 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[30-Jul-2016 10:07:38 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php on line 9
+[30-Jul-2016 10:07:38 UTC] PHP Stack trace:
+[30-Jul-2016 10:07:38 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[30-Jul-2016 10:07:38 UTC] PHP Notice:  Undefined index: PATH_Documents in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/getallpaymentdetailsinfo.php on line 3
+[30-Jul-2016 10:07:38 UTC] PHP Stack trace:
+[30-Jul-2016 10:07:39 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/getallpaymentdetailsinfo.php:0
+[30-Jul-2016 10:23:05 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php on line 3
+[30-Jul-2016 10:23:05 UTC] PHP Stack trace:
+[30-Jul-2016 10:23:05 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[30-Jul-2016 10:23:05 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php on line 9
+[30-Jul-2016 10:23:05 UTC] PHP Stack trace:
+[30-Jul-2016 10:23:05 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[30-Jul-2016 10:23:06 UTC] PHP Notice:  Undefined index: PATH_Documents in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/getallpaymentdetailsinfo.php on line 3
+[30-Jul-2016 10:23:06 UTC] PHP Stack trace:
+[30-Jul-2016 10:23:06 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/getallpaymentdetailsinfo.php:0
+[31-Jul-2016 17:50:07 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php on line 3
+[31-Jul-2016 17:50:07 UTC] PHP Stack trace:
+[31-Jul-2016 17:50:07 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[31-Jul-2016 17:50:07 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php on line 9
+[31-Jul-2016 17:50:07 UTC] PHP Stack trace:
+[31-Jul-2016 17:50:07 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[31-Jul-2016 17:50:11 UTC] PHP Notice:  Undefined index: PATH_Documents in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/getallpaymentdetailsinfo.php on line 3
+[31-Jul-2016 17:50:11 UTC] PHP Stack trace:
+[31-Jul-2016 17:50:11 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/getallpaymentdetailsinfo.php:0
+[04-Aug-2016 09:14:30 UTC] PHP Notice:  Undefined index: PATH_Documents in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/getallpaymentdetailsinfo.php on line 3
+[04-Aug-2016 09:14:30 UTC] PHP Stack trace:
+[04-Aug-2016 09:14:30 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/getallpaymentdetailsinfo.php:0
+[05-Aug-2016 06:57:12 UTC] PHP Notice:  Undefined index: PATH_Documents in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/getallpaymentdetailsinfo.php on line 3
+[05-Aug-2016 06:57:12 UTC] PHP Stack trace:
+[05-Aug-2016 06:57:12 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/getallpaymentdetailsinfo.php:0
+[05-Aug-2016 15:48:39 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php on line 3
+[05-Aug-2016 15:48:39 UTC] PHP Stack trace:
+[05-Aug-2016 15:48:39 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[05-Aug-2016 15:48:39 UTC] PHP Warning:  require_once(includes/constants.php): failed to open stream: No such file or directory in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Mysql.php on line 3
+[05-Aug-2016 15:48:39 UTC] PHP Stack trace:
+[05-Aug-2016 15:48:39 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[05-Aug-2016 15:48:39 UTC] PHP   2. include() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:5
+[05-Aug-2016 15:48:39 UTC] PHP   3. require_once() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/header.php:2
+[05-Aug-2016 15:48:39 UTC] PHP   4. require() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Membership.php:3
+[05-Aug-2016 15:48:39 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/constants.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Mysql.php on line 3
+[05-Aug-2016 15:48:39 UTC] PHP Stack trace:
+[05-Aug-2016 15:48:39 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[05-Aug-2016 15:48:39 UTC] PHP   2. include() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:5
+[05-Aug-2016 15:48:39 UTC] PHP   3. require_once() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/header.php:2
+[05-Aug-2016 15:48:39 UTC] PHP   4. require() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Membership.php:3
+[08-Aug-2016 08:06:22 UTC] PHP Notice:  Undefined index: PATH_Documents in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/getallpaymentdetailsinfo.php on line 3
+[08-Aug-2016 08:06:22 UTC] PHP Stack trace:
+[08-Aug-2016 08:06:22 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/getallpaymentdetailsinfo.php:0
+[09-Aug-2016 09:00:15 UTC] PHP Notice:  Undefined index: PATH_Documents in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/getallpaymentdetailsinfo.php on line 3
+[09-Aug-2016 09:00:15 UTC] PHP Stack trace:
+[09-Aug-2016 09:00:15 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/getallpaymentdetailsinfo.php:0
+[09-Aug-2016 18:28:40 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php on line 3
+[09-Aug-2016 18:28:40 UTC] PHP Stack trace:
+[09-Aug-2016 18:28:40 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[09-Aug-2016 18:28:40 UTC] PHP Warning:  require_once(includes/constants.php): failed to open stream: No such file or directory in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Mysql.php on line 3
+[09-Aug-2016 18:28:40 UTC] PHP Stack trace:
+[09-Aug-2016 18:28:40 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[09-Aug-2016 18:28:40 UTC] PHP   2. include() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:5
+[09-Aug-2016 18:28:40 UTC] PHP   3. require_once() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/header.php:2
+[09-Aug-2016 18:28:40 UTC] PHP   4. require() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Membership.php:3
+[09-Aug-2016 18:28:40 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/constants.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Mysql.php on line 3
+[09-Aug-2016 18:28:40 UTC] PHP Stack trace:
+[09-Aug-2016 18:28:40 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[09-Aug-2016 18:28:40 UTC] PHP   2. include() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:5
+[09-Aug-2016 18:28:40 UTC] PHP   3. require_once() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/header.php:2
+[09-Aug-2016 18:28:40 UTC] PHP   4. require() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Membership.php:3
+[10-Aug-2016 04:33:27 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php on line 3
+[10-Aug-2016 04:33:27 UTC] PHP Stack trace:
+[10-Aug-2016 04:33:27 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[10-Aug-2016 04:33:27 UTC] PHP Warning:  require_once(includes/constants.php): failed to open stream: No such file or directory in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Mysql.php on line 3
+[10-Aug-2016 04:33:27 UTC] PHP Stack trace:
+[10-Aug-2016 04:33:27 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[10-Aug-2016 04:33:27 UTC] PHP   2. include() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:5
+[10-Aug-2016 04:33:27 UTC] PHP   3. require_once() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/header.php:2
+[10-Aug-2016 04:33:27 UTC] PHP   4. require() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Membership.php:3
+[10-Aug-2016 04:33:27 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/constants.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Mysql.php on line 3
+[10-Aug-2016 04:33:27 UTC] PHP Stack trace:
+[10-Aug-2016 04:33:27 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[10-Aug-2016 04:33:27 UTC] PHP   2. include() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:5
+[10-Aug-2016 04:33:27 UTC] PHP   3. require_once() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/header.php:2
+[10-Aug-2016 04:33:27 UTC] PHP   4. require() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Membership.php:3
+[11-Aug-2016 13:59:28 UTC] PHP Notice:  Undefined index: PATH_Documents in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/getallpaymentdetailsinfo.php on line 3
+[11-Aug-2016 13:59:28 UTC] PHP Stack trace:
+[11-Aug-2016 13:59:28 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/getallpaymentdetailsinfo.php:0
+[15-Aug-2016 12:26:32 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php on line 3
+[15-Aug-2016 12:26:32 UTC] PHP Stack trace:
+[15-Aug-2016 12:26:32 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[15-Aug-2016 12:26:32 UTC] PHP Warning:  require_once(includes/constants.php): failed to open stream: No such file or directory in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Mysql.php on line 3
+[15-Aug-2016 12:26:32 UTC] PHP Stack trace:
+[15-Aug-2016 12:26:32 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[15-Aug-2016 12:26:32 UTC] PHP   2. include() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:5
+[15-Aug-2016 12:26:32 UTC] PHP   3. require_once() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/header.php:2
+[15-Aug-2016 12:26:32 UTC] PHP   4. require() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Membership.php:3
+[15-Aug-2016 12:26:32 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/constants.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Mysql.php on line 3
+[15-Aug-2016 12:26:32 UTC] PHP Stack trace:
+[15-Aug-2016 12:26:32 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[15-Aug-2016 12:26:32 UTC] PHP   2. include() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:5
+[15-Aug-2016 12:26:32 UTC] PHP   3. require_once() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/header.php:2
+[15-Aug-2016 12:26:32 UTC] PHP   4. require() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Membership.php:3
+[22-Aug-2016 02:45:04 UTC] PHP Notice:  Use of undefined constant php - assumed 'php' in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php on line 3
+[22-Aug-2016 02:45:04 UTC] PHP Stack trace:
+[22-Aug-2016 02:45:04 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[22-Aug-2016 02:45:04 UTC] PHP Warning:  require_once(includes/constants.php): failed to open stream: No such file or directory in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Mysql.php on line 3
+[22-Aug-2016 02:45:04 UTC] PHP Stack trace:
+[22-Aug-2016 02:45:04 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[22-Aug-2016 02:45:04 UTC] PHP   2. include() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:5
+[22-Aug-2016 02:45:04 UTC] PHP   3. require_once() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/header.php:2
+[22-Aug-2016 02:45:04 UTC] PHP   4. require() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Membership.php:3
+[22-Aug-2016 02:45:04 UTC] PHP Fatal error:  require_once(): Failed opening required 'includes/constants.php' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Mysql.php on line 3
+[22-Aug-2016 02:45:04 UTC] PHP Stack trace:
+[22-Aug-2016 02:45:04 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:0
+[22-Aug-2016 02:45:04 UTC] PHP   2. include() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/displaypaymentdetails.php:5
+[22-Aug-2016 02:45:04 UTC] PHP   3. require_once() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/header.php:2
+[22-Aug-2016 02:45:04 UTC] PHP   4. require() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/classes/Membership.php:3
+[22-Aug-2016 10:16:52 UTC] PHP Notice:  Undefined index: PATH_Documents in /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/getallpaymentdetailsinfo.php on line 3
+[22-Aug-2016 10:16:52 UTC] PHP Stack trace:
+[22-Aug-2016 10:16:52 UTC] PHP   1. {main}() /home/vishnukcs123/public_html/www.gaddy.in/control_panel/paymentdetails/getallpaymentdetailsinfo.php:0
